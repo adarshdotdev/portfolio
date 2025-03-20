@@ -1,5 +1,13 @@
 # portfolio 
 
+Smart Coupon distribution system
+Round-Robin Coupon System that distributes coupons fairly while preventing abuse using IP & cookie tracking. No logins, just seamless access! 🔒(It's a assignment I got from the recruiter)
+🔁 Smart round-robin allocation
+🛡️ IP & cookie-based abuse prevention
+🛠️ Admin panel for easy management
+💡 Tech Stack: Next.js | Prisma | PostgreSQL | TypeScript
+code🔗https://lnkd.in/dC3qhPkT
+
 EMI Calculator 
 A sleek Loan EMI Calculator built with React (Vite), TypeScript, Tailwind CSS, and ShadCN. It helps users calculate their monthly EMI with real-time updates and visualizes the loan breakup.
 🛠 Tech Stack
